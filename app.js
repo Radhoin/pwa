@@ -10,5 +10,3 @@ if ('serviceWorker' in navigator) {
     });
   });
 }
-
-
