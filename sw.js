@@ -3,7 +3,7 @@ var cacheName = 'rti-application';
 var appShellFiles = [
   '/pwa/index.html',
   '/pwa/static/css/main.dc4f9fba.css',
-  '/pwa/static/js/main.2ca4883c.js'
+  '/pwa/static/js/main.d929760d.js'
 ];
 
 // Installing Service Worker
