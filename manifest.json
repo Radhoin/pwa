@@ -1,7 +1,7 @@
 {
-  "name": "Gestion des absences",
+  "name": "Gestion des articles",
   "description": "Initiating my first web progressive application!",
-  "short_name": "Gestion_des_absences",
+  "short_name": "Gestion_des_articles",
   "icons": [{
     "src": "img/it-can-32.png",
     "sizes": "32x32",
