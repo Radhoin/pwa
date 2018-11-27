@@ -1,24 +1,24 @@
 {
-  "name": "Adi WPA",
+  "name": "Gestion des absences",
   "description": "Initiating my first web progressive application!",
-  "short_name": "Adi_First_app",
+  "short_name": "Gestion_des_absences",
   "icons": [{
-    "src": "img/it-can-32.png",
+    "src": "favicon.ico",
     "sizes": "32x32",
     "type": "image/png"
   },
     {
-      "src": "img/it-can-64.png",
+      "src": "favicon.ico",
       "sizes": "64x64",
       "type": "image/png"
     },
     {
-      "src": "img/it-can-192.png",
+      "src": "favicon.ico",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "img/it-can-512.png",
+      "src": "favicon.ico",
       "sizes": "512x512",
       "type": "image/png"
     }

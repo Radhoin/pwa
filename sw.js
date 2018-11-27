@@ -1,5 +1,5 @@
 // Files to cache
-var cacheName = 'Adi-app-v1';
+var cacheName = 'rti-application';
 var appShellFiles = [
   '/pwa/index.html',
   '/pwa/static/css/main.dc4f9fba.css',
