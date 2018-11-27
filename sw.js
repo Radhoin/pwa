@@ -2,19 +2,8 @@
 var cacheName = 'Adi-app-v1';
 var appShellFiles = [
   '/pwa/index.html',
-  '/pwa/formInsc.html',
-  '/pwa/ArrayOfUsers.html',
-  '/pwa/css/bootstrap.css',
-  '/pwa/css/style.css',
-  '/pwa/js/jquery-3.3.1.min.js',
-  '/pwa/js/bootstrap.js',
-  '/pwa/js/popper.min.js',
-  '/pwa/js/program.js',
-  '/pwa/js/pgFormIns.js',
-  '/pwa/js/arrOfUsers.js',
-  '/pwa/img/it-can-64.png',
-  '/pwa/img/it-can-192.png',
-  '/pwa/img/it-can-512.png'
+  '/pwa/static/css',
+  '/pwa/static/js'
 ];
 
 // Installing Service Worker
