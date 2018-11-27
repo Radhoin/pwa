@@ -2,8 +2,8 @@
 var cacheName = 'Adi-app-v1';
 var appShellFiles = [
   '/pwa/index.html',
-  '/pwa/static/css',
-  '/pwa/static/js'
+  '/pwa/static/css/main.dc4f9fba.css',
+  '/pwa/static/js/main.2ca4883c.js'
 ];
 
 // Installing Service Worker
